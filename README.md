@@ -9,8 +9,8 @@ This project focuses on analyzing a Netflix movie dataset to extract meaningful 
 
 The project aims to answer the following questions:
 
-What is the most frequent genre of movies released on Netflix?
-Which genre has the highest number of votes?
-Which movie has the highest popularity? What is its genre?
-Which movie has the lowest popularity? What is its genre?
-Which year has the highest number of movie releases?
+1. What is the most frequent genre of movies released on Netflix? 
+2. Which genre has the highest number of votes?
+3. Which movie has the highest popularity? What is its genre?
+4. Which movie has the lowest popularity? What is its genre?
+5. Which year has the highest number of movie releases?
