@@ -25,22 +25,29 @@ Streamlit / Power BI (Dashboard)
 
 
 📂 Dataset
-Source: Netflix Movies Dataset
-Format: CSV
-Contains information such as:
-Movie Title
-Genre
-Popularity
-Votes
+- Source: Netflix Movies Dataset
+-Format: CSV
+-Contains information such as:
+-Movie Title
+-Genre
+-Popularity
+-Votes
 Release Year
 
 
 🔍 Data Analysis Process
-Data Cleaning
-Handling missing values
-Removing duplicates
-Exploratory Data Analysis (EDA)
-Genre distribution
-Popularity analysis
-Votes comparison
-Year-wise movie trends
+1. Data Cleaning
+-Handling missing values
+-Removing duplicates
+2. Exploratory Data Analysis (EDA)
+-Genre distribution
+-Popularity analysis
+-Votes comparison
+-Year-wise movie trends
+
+
+📊 Key Insights
+1.The most frequent genre on Netflix is Drama
+2. The most popular movie is Spider Man :No Way Home. with Genre (Action, Adventure, Science Fiction).
+3.The least popular movie is The United States vs. Billie Holiday	with Genre (Music, Drama, History).
+4. The year with most releases is 2021.
