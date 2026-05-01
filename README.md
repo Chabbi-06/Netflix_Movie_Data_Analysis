@@ -51,3 +51,26 @@ Release Year
 2. The most popular movie is Spider Man :No Way Home. with Genre (Action, Adventure, Science Fiction).
 3.The least popular movie is The United States vs. Billie Holiday	with Genre (Music, Drama, History).
 4. The year with most releases is 2021.
+
+
+
+🚀 Project Highlights
+Interactive Power BI Dashboard
+Real-world dataset analysis
+Business problem solving approach
+Clean and structured data pipeline
+
+ 
+
+📊 Dashboard Output
+
+<img src="images/dashboard.png" width="800"/>
+<img src="images/topmovies.png" width="800"/>
+<img src="images/genredistribution.png" width="800"/>
+<img src="images/leastpopular.png" width="800"/>
+<img src="images/votedistribution.png" width="800"/>
+<img src="images/dashboard.png" width="800"/>
+
+📌 Author
+
+Chabbi Bala
