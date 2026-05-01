@@ -71,6 +71,28 @@ Clean and structured data pipeline
 <img src="images/votedistribution.png" width="800"/>
 <img src="images/dashboard.png" width="800"/>
 
+## 📊 Power BI Dashboard
+
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
+
+## 📈 Python Analysis Output
+
+<p align="center">
+  <img src="topmovies.png" width="800"/>
+</p>
+<p align="center">
+  <img src="genredistribution.png" width="800"/>
+</p>
+<p align="center">
+  <img src="votedistribution.png" width="800"/>
+</p>
+<p align="center">
+  <img src="leastpopular.png" width="800"/>
+</p>
+
+
 📌 Author
 
 Chabbi Bala
