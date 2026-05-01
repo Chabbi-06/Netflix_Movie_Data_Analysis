@@ -62,15 +62,6 @@ Clean and structured data pipeline
 
  
 
-📊 Dashboard Output
-
-<img src="images/dashboard.png" width="800"/>
-<img src="images/topmovies.png" width="800"/>
-<img src="images/genredistribution.png" width="800"/>
-<img src="images/leastpopular.png" width="800"/>
-<img src="images/votedistribution.png" width="800"/>
-<img src="images/dashboard.png" width="800"/>
-
 ## 📊 Power BI Dashboard
 
 <p align="center">
@@ -95,4 +86,4 @@ Clean and structured data pipeline
 
 📌 Author
 
-Chabbi Bala
+https://github.com/Chabbi-06
